@@ -1,3 +1,3 @@
 # git-playground
 
-깃으로 놀아 보자!
+깃 재미있다
